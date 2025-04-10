@@ -1,7 +1,5 @@
 # Felipe Hulle
 
----
-
 ## 🚀 Sobre Mim
 
 Sou um **Engenheiro de Dados** com paixão por transformar dados em soluções inteligentes. Domino ferramentas modernas de engenharia de dados e atuo no desenvolvimento de pipelines escaláveis, limpos e eficientes.
