@@ -14,7 +14,7 @@ Meu foco está em entregar **valor através dos dados**, automatizando processos
 
 ### 💻 Linguagens de Programação
 
-![Python](https://ForTheBadge.com/images/badges/made-with-python.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌀 Orquestração
 
