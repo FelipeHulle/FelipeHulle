@@ -1,4 +1,4 @@
-# Olá, meu nome é Felipe Hulle! 👋
+# Felipe Hulle
 
 ## 🚀 Sobre Mim
 
